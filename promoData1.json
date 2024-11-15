@@ -1,8 +1,8 @@
 {
   "promoPanel": {
-    "isActive": 0,
-    "iconPath": "https://raw.githubusercontent.com/Kojaaak/PromoData/main/IconQ.png",
-    "appName": "azeazeaze",
-    "gameLink": "https://apps.apple.com/ai/app/sprunki-music-game/id1616874423"
+    "isActive": 1,
+    "iconPath": "https://raw.githubusercontent.com/Kojaaak/PromoData/refs/heads/main/IconaPromo1.png",
+    "appName": "Sprunki Phase 3",
+    "gameLink": "https://apps.apple.com/us/app/sprundraw-coloring/id6737768896"
   }
 }
